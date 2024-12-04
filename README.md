@@ -1,16 +1,11 @@
-# tassien3
+#Grupo: Enzo R. Caio H. e Lucas B.
 
-A new Flutter project.
+Dependências: firebase_auth: ^5.3.3
+google_sign_in: ^6.2.2
+firebase_core: ^3.8.0
+ 
+Flutter 3.24.3
+Dart 3.5.3
+ 
+Versão minima do SDK: 23
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
